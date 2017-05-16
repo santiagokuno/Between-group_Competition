@@ -3,9 +3,9 @@
 
 Juan Camilo Cárdenas, Universidad de los Andes, Economics Department, Bogotá, Colombia (jccarden@uniandes.edu.co)
 
-Santiago Gómez, Universidad de los Andes, Economics Department, Bogotá, Colombia
-
 César Mantilla, Universidad del Rosario, Economics Department, Bogotá, Colombia
+
+Santiago Gómez, Universidad de los Andes, Economics Department, Bogotá, Colombia
 
 This code was created using oTree (www.otree.org) version (0.8.1). We provide the files that should be added to a
  standard version of oTree. They have not been tested in a higher oTree version.
